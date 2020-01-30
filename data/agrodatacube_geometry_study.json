@@ -1,0 +1,11 @@
+{
+  "studyType": "AgroDataCubeGeometryStudy",
+  "id": "maize_fields_2018",
+  "title": "(Snij)Maïs Percelen 2018",
+  "description": "WOFOST crop simulaties voor een aantal maïs-percelen in 2018 uit de AgroDataCube",
+  "selectionGeometryWkt": "POLYGON((4.676506284168227 52.9207614981334,5.110466245105727 52.937317994979125,5.330192807605727 52.71160667496344,5.041801694324477 52.36077542661751,4.539177182605727 52.452930822949874,4.676506284168227 52.9207614981334))",
+  "selectionGeometryEpsg": "4326",
+  "selectionYear": 2018,
+  "selectionCropCode": "259",
+  "timeoutSec": 600
+}

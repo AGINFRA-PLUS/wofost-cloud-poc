@@ -1,0 +1,22 @@
+# ignore all IDE project files
+.idea/
+.metals/
+.vscode/
+
+# ignore compiled targets
+target/**
+project/target/**
+build/
+.bloop/
+*.class
+
+# ignore log files
+log/
+logs/
+*.log
+
+# ignore temp and local stuff
+temp/
+local/
+/target/
+/out/

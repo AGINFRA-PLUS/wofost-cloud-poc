@@ -1,0 +1,13 @@
+{
+  "studyType": "SimpleSweepStudy",
+  "id": "sample_simple_sweep_study_for_testing",
+  "title": "Sample Simple Sweep Study for Testing",
+  "description": "No description yet.",
+  "sweepParamName": "TSUM1",
+  "sweepParamOwner": "WOFOST",
+  "stepSize": 10.0,
+  "nrRunsBeforeBaseValue": 20,
+  "nrRunsAfterBaseValue": 5,
+  "inputFileName": "data/cgms12eu2-crop_2-grid_64189-year_2010-stu_9001121_params.json",
+  "timeoutSec": 30
+}

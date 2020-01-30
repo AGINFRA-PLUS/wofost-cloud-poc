@@ -1,0 +1,58 @@
+﻿# Bouwstenen Staringreeks in de vorm van Mualem - Van Genuchten parameters in analytische functies voor de waterretentie- en doorlatendsheidskarateriestiek.
+# Deze parameter beschrijving vormt een alternatief voor de tabelbeschrijving in bijlage 2 van BOFEK2012, Alterra rapport 2387.
+
+# Staringreeks versie 1987:
+# Wösten, J.H.M. 1987. Beschrijving van de waterretentie- en doorlatendheidskarakteristieken uit de Staringreeks met analytische functies
+# Stiboka rapport nummer 2019.
+
+# Staringreeks versie 1994:
+# Wösten, J.H.M., G.J. Veerman en J. Stolte. 1994. Waterretentie- en doorlatendheidkarakteristieken van boven- en ondergronden in Nederland: de Staringreeks
+# Vernieuwde uitgave 1994. Staring Centrum Technisch Document 18.
+
+# Staringreeks versie 2001:
+# Wösten, J.H.M., G.J. Veerman, W.J.M. de Groot en J. Stolte. 2001. Waterretentie- en doorlatendheidskarakteristieken van boven- en ondergronden in Nederland: de Staringreeks
+# Vernieuwde uitgave 2001. Alterra rapport 153.
+
+# Bovengronden
+# Textuur,θr,θs,α,n,Ks,l,Staringreeks versie
+# (-),(cm3/cm3),(cm3/cm3),(1/cm),(-),(cm/d),(-),(-)
+"B1","Leemarm; zeer fijn tot matig fijn zand",0.00,0.37,0.0208,1.646,33.34,0.571,1987
+"B2","Zwak lemig; zeer fijn tot matig fijn zand",0.00,0.43,0.0224,1.436,32.21,-0.304,1987
+"B3","Sterk lemig; zeer fijn tot matig fijn zand",0.00,0.45,0.0152,1.412,17.81,-0.213,1987
+"B4","Zeer sterk lemig; zeer fijn tot matig fijn zand",0.00,0.42,0.0163,1.559,54.80,0.177,1987
+"B5","Grof zand",0.01,0.36,0.0452,1.933,52.91,-0.359,2001
+"B6","Keileem",0.01,0.38,0.0222,1.238,100.69,-1.747,2001
+"B7","Zeer lichte zavel",0.00,0.40,0.0158,1.287,25.10,0.248,1987
+"B8","Matig lichte zavel",0.00,0.40,0.0313,1.200,22.90,-3.578,1987
+"B9","Zware zavel",0.00,0.43,0.0065,1.325,1.54,-2.161,1994
+"B10","Lichte klei",0.00,0.44,0.0519,1.216,31.10,-6.552,1987
+"B11","Matig zware klei",0.00,0.51,0.1562,1.099,63.60,-8.067,1987
+"B12","Zeer zware klei",0.00,0.57,0.1689,1.068,98.20,-10.286,1987
+"B13","Zandige leem",0.01,0.42,0.0084,1.441,12.98,-1.497,2001
+"B14","Siltige leem",0.01,0.42,0.0051,1.305,0.80,0.000,1994
+"B15","Venig zand",0.01,0.53,0.0242,1.280,81.28,-1.476,2001
+"B16","Zandig veen en veen",0.00,0.73,0.0134,1.320,13.44,0.534,1987
+"B17","Venige klei",0.00,0.72,0.0180,1.140,4.46,-0.350,1994
+"B18","Kleiig veen",0.00,0.71,0.0284,1.141,34.80,1.086,1987
+
+# Ondergronden
+# Textuur,θr,θs,α,n,Ks,l,Staringreeks versie
+# (-),(cm3/cm3),(cm3/cm3),(1/cm),(-),(cm/d),(-),(-)
+"O1","Leemarm; zeer fijn tot matig fijn zand",0.00,0.35,0.0220,2.186,99.70,0.796,1987
+"O2","Zwak lemig; zeer fijn tot matig fijn zand",0.00,0.38,0.0182,1.870,63.90,0.911,1987
+"O3","Sterk lemig; zeer fijn tot matig fijn zand",0.00,0.34,0.0265,1.543,44.60,-0.333,1987
+"O4","Zeer sterk lemig; zeer fijn tot matig fijn zand",0.00,0.36,0.0216,1.540,53.10,-0.520,1987
+"O5","Grof zand",0.00,0.33,0.0524,1.912,223.00,0.873,1987
+"O6","Keileem",0.00,0.41,0.0291,1.152,5.48,-6.864,1987
+"O7","Beekleem",0.01,0.51,0.0123,1.152,39.10,-2.023,2001
+"O8","Zeer lichte zavel",0.00,0.42,0.0248,1.321,26.40,-0.622,1987
+"O9","Matig lichte zavel",0.00,0.41,0.0280,1.283,24.00,-1.559,1987
+"O10","Zware zavel",0.00,0.44,0.0231,1.212,25.60,-2.220,1987
+"O11","Lichte klei",0.00,0.42,0.0420,1.125,61.00,-3.706,1987
+"O12","Matig zware klei",0.00,0.49,0.0384,1.113,10.80,-6.743,1987
+"O13","Zeer zware klei",0.00,0.58,0.1122,1.063,38.00,-12.538,1987
+"O14","Zandige leem",0.00,0.38,0.0025,1.686,0.36,0.057,1994
+"O15","Siltige leem",0.00,0.43,0.0207,1.224,57.42,-2.077,1987
+"O16","Oligotroof veen",0.00,0.87,0.0179,1.275,14.66,0.539,1987
+"O17","Mesotroof en eutroof veen",0.00,0.89,0.0145,1.252,30.45,1.019,1987
+"O18","Moerige tussenlaag",0.01,0.57,0.0138,1.323,34.45,-1.204,2001

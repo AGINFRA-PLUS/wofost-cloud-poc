@@ -1,0 +1,9 @@
+{
+  "studyType": "AgroDataCubeFieldIdStudy",
+  "id": "field_7296124",
+  "title": "Perceel 7296124",
+  "description": "WOFOST crop simulatie voor AgroDataCube perceel 7296124",
+  "selectionFieldId": 7296124,
+  "selectionYear": 2018,
+  "timeoutSec": 30
+}

@@ -1,0 +1,11 @@
+{
+  "studyType": "AgroDataCubeFieldIdsStudy",
+  "id": "maize_fields_2018",
+  "title": "(Snij)Maïs Percelen 2018",
+  "description": "WOFOST crop simulaties voor een aantal maïs-percelen in 2018",
+  "selectionYear": 2018,
+  "selectionFieldIds": [
+    7296124, 7363829, 7239915, 7626141, 7248492
+  ],
+  "timeoutSec": 30
+}

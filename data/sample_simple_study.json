@@ -1,0 +1,8 @@
+{
+  "studyType": "SimpleStudy",
+  "id": "sample_simple_study_for_testing",
+  "title": "Sample Simple Study for Testing",
+  "description": "No description yet.",
+  "inputFileName": "data/cgms12eu2-crop_2-grid_64189-year_2010-stu_9001121_params.json",
+  "timeoutSec": 10
+}
